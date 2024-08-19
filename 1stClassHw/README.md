@@ -1,0 +1,1 @@
+## In this repository, you will find all the activities I will have done in my Artificial Intelligence course at university, organized into folders.
