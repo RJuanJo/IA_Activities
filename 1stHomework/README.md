@@ -33,7 +33,9 @@ For the activity, the following libraries are required:
 - **wordcloud**: For generating word clouds from text data.
 - **re**: For working with regular expressions.
 
-Run the following command in the path of the activitie to install necessary libraries:
+Run the following command in the path of the activity to install necessary libraries:
+
+
 ´´´python
 pip install -r requirements.txt
 ´´´
