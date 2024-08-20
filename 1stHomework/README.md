@@ -33,6 +33,11 @@ For the activity, the following libraries are required:
 - **wordcloud**: For generating word clouds from text data.
 - **re**: For working with regular expressions.
 
+Run the following command in the path of the activitie to install necessary libraries:
+´´´python
+pip install -r requirements.txt
+´´´
+
 For the solution of the activity, a **[Dataset](https://www.kaggle.com/datasets/lightningforpython/spam-or-not?select=spam.csv)** from Kaggle is initially chosen, which contains two categories of messages: "ham" and "spam" with 5000+ rows.
 The procedure is divided into two parts.
 
