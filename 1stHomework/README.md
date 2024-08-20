@@ -40,4 +40,6 @@ EDA, which can be found at **[EDA Notebook](https://github.com/RJuanJo/IA_Activi
 
 The second part is located at **[Model Training Notebook](https://github.com/RJuanJo/IA_Activities/blob/main/1stHomework/notebooks/classification_model.ipynb)**, where the requested assignments are addressed, and it moves on to the model training for the data. 
 
+Once the libraries are ready, you only need to execute the notebook cells and review the results.
+
 
