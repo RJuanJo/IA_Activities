@@ -30,7 +30,7 @@ EDA, which can be found at **[EDA Notebook](https://github.com/RJuanJo/IA_Activi
 The second part is located at **[Model Training Notebook](https://github.com/RJuanJo/IA_Activities/blob/main/1stHomework/notebooks/classification_model.ipynb)**, where the requested assignments are addressed, and it moves on to the model training for the data. 
 
 For the activity, the following libraries are required:
-´´´
+
 - **pandas**: For data manipulation and analysis.
 - **numpy**: For numerical operations and array manipulation.
 - **seaborn**: For data visualization.
@@ -39,4 +39,4 @@ For the activity, the following libraries are required:
 - **sklearn**: For machine learning, specifically for model training and evaluation.
 - **wordcloud**: For generating word clouds from text data.
 - **re**: For working with regular expressions.
-´´´
+
