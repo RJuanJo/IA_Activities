@@ -36,9 +36,9 @@ For the activity, the following libraries are required:
 Run the following command in the path of the activity to install necessary libraries:
 
 
-´´´python
-pip install -r requirements.txt
-´´´
+  ```python
+  pip install -r requirements.txt
+  ```
 
 For the solution of the activity, a **[Dataset](https://www.kaggle.com/datasets/lightningforpython/spam-or-not?select=spam.csv)** from Kaggle is initially chosen, which contains two categories of messages: "ham" and "spam" with 5000+ rows.
 The procedure is divided into two parts.
