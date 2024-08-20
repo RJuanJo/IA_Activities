@@ -19,3 +19,12 @@ Explain the SGDClassifier class in sklearn.
 
 ### f. Encoding Categorical Data
 Explain three different ways to encode categorical data, and what their advantages and disadvantages are.
+
+# Realization
+
+For the solution of the activity, a **[Dataset](https://www.kaggle.com/datasets/lightningforpython/spam-or-not?select=spam.csv)** from Kaggle is initially chosen, which contains two categories of messages: "ham" and "spam" with 5000+ rows.
+The procedure is divided into two parts.
+
+EDA, which can be found at **[EDA Notebook](https://github.com/RJuanJo/IA_Activities/blob/main/1stHomework/notebooks/eda.ipynb)** and provides good insights into the nature of the data and how the data is organized within the dataset.
+
+The second part is located at **[Model Training Notebook](https://github.com/RJuanJo/IA_Activities/blob/main/1stHomework/notebooks/classification_model.ipynb)**, where the requested assignments are addressed, and it moves on to the model training for the data. 
